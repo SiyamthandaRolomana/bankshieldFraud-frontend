@@ -25,7 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+## Demo
 
-## Demo Video
+🎥 Watch the demo: https://raw.githubusercontent.com/SiyamthandaRolomana/bankshieldFraud-frontend/master/UI-Video-demo%20(1).mp4
 
-[![Watch the demo]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://github.com/SiyamthandaRolomana/bankshieldFraud-frontend/blob/master/UI-Video-demo%20(1).mp4))]([https://www.youtube.com/watch?v=VIDEO_ID](https://github.com/SiyamthandaRolomana/bankshieldFraud-frontend/blob/master/UI-Video-demo%20(1).mp4))
